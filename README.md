@@ -1,2 +1,6 @@
-# Portif-lio-IA---Maria-Eduarda-Silva
-Estudante de Análise e Desenvolvimento de Sistemas e estagiária na B3, nas frentes de SAT e iMercado. Tenho foco em IA Generativa, automação e dados, com prática em n8n, Cursor e Power Automate. Desenvolvo experimentos e soluções com IA voltados a otimizar processos, analisar informações e criar fluxos mais eficientes.
+IA Generativa • Automação • Dados • AI Builder
+Sou estudante de Análise e Desenvolvimento de Sistemas e atualmente atuo como estagiária na B3, nas frentes de SAT e iMercado.
+
+Tenho direcionado meu desenvolvimento para Inteligência Artificial Generativa e automação de processos, explorando ferramentas como n8n, Cursor, Power Automate e modelos de linguagem para transformar atividades manuais em fluxos mais eficientes.
+
+Este portfólio reúne experimentos e projetos desenvolvidos com dados fictícios ou públicos, com foco em resolução de problemas, automação, análise de dados e construção de soluções com IA.
