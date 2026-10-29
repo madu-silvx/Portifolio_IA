@@ -1,0 +1,11 @@
+﻿id,solicitacao,categoria_esperada,prioridade_esperada
+1,Não consigo acessar o portal desde a troca de senha.,Acesso,Média
+2,O relatório mensal não está carregando e preciso fechar a análise hoje.,Relatório/Dados,Alta
+3,Gostaria de solicitar acesso para um novo integrante da equipe.,Acesso,Baixa
+4,Recebi uma mensagem de erro ao tentar enviar um arquivo.,Erro de sistema,Média
+5,O sistema está indisponível para todos do meu time.,Indisponibilidade,Crítica
+6,Preciso atualizar uma informação cadastral.,Cadastro,Baixa
+7,A planilha de indicadores apresenta valores diferentes do esperado.,Dados,Alta
+8,Tenho dúvida sobre qual canal usar para uma solicitação.,Orientação,Baixa
+9,Meu acesso expira hoje e preciso continuar uma atividade.,Acesso,Alta
+10,"A página demora muito para carregar, mas ainda funciona.",Performance,Média
